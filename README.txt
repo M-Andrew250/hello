@@ -17,14 +17,16 @@ the control panel too falls into two parts which are "GDP" and "CPI". the GDP pa
 to customize GDP Visualization only.  and the CPI part control widgets is used to customize CPI Visualization only.
 By default, in both parts of the control panel the default year of GDP Visualization is 2022 and default date of CPI visualtion is November 2022.
 
-On GDP part visualization, you may customize it using "YEAR, YEAR OPTIONS, Activity category and Activity" the year options, by default 
-all the years are selected so that the chart is automatically adjusted according to the selected years. 
-the Activity select box is made according to the above selected Activity category. therefore the GDP Visualization automatically changes 
-accordingly.
+On GDP part visualization, you may customize it using "YEAR, YEAR OPTIONS, Activity category 
+and Activity" the year options, by default all the years are selected so that the chart is automatically adjusted according to the selected years. 
+the Activity select box is made according to the above selected Activity category. 
+therefore the GDP Visualization automatically changes accordingly.
 
-On CPI part Visualization, the controls are Date, Region, "From date", "To date" and item from the basket. when the date is selected the CPI both Rwanda and regional (rural or urban)  reveals respectively. by default the default date is November 2022. 
+On CPI part Visualization, the controls are Date, Region, "From date", "To date" and item from the basket. 
+when the date is selected the CPI both Rwanda and regional (rural or urban)  reveals respectively. by default the default date is November 2022. 
 The Region control contains Rural and Urban and from there you may choose to visualize rural or urban.
-To control charts visualization, you will need to choose the From date and To date of which you want to reveal. and charts will automatically adjust accordingly.
+To control charts visualization, you will need to choose the From date and To date of which you want to reveal. 
+and charts will automatically adjust accordingly.
 lastly, you will need to choose an item from the basket of which you would like to view its chart.
 
 BODY
