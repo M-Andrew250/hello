@@ -1,5 +1,5 @@
-Project name: 2022 Rwanda GDP and CPI Visualization dashboard
-description: the project visualizes the 2022 Rwanda Gross Domestic Product (GDP) and Consumer Price Index (CPI).
+Project name: 2022 Rwanda GDP and CPI Visualization Dashboard
+description: The project visualizes the 2022 Rwanda Gross Domestic Product (GDP) and Consumer Price Index (CPI).
 
 INSTALLATION
 pip install pandas
