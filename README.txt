@@ -41,7 +41,12 @@ Lastly, the css style code hides the streamlit headers and footers
 
 Note:All data used are in excel file and were obtained from the National Institute of Statistics of Rwanda under its authorisation.
 
+VIEWING THE DASHBOARD
 
+To view the app 
+1. download the code, excel data, CSS style file and the png and store them all in the same folder. 
+2. open your pc command prompt, navigate to the folder where you kept the files 
+3. type streamlit run 2022_GDP_CPI.py
 
 
 
